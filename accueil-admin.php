@@ -1,6 +1,7 @@
 <?php
 
 // On démarre la session en début de chaque page
+//voila je rajout un truc 
 session_start();
 include "db_config.php";
 
